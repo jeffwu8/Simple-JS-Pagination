@@ -50,7 +50,6 @@ $(document).ready(function() {
       displayPagination();
       displayTable();
     }
-    check();
   });
 
   function displayPagination() {
